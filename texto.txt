@@ -1,1 +1,5 @@
 Hola Carlos
+
+Paso 1: git clone https://github.com/cdiazbas/RepoPrueba
+Paso 2: git status
+Paso 3: git commit -m 'texto.txt modificado'
